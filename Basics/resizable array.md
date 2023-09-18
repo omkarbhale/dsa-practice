@@ -1,6 +1,6 @@
 # Design Dynamic Array (Resizable Array)
 
-Design a Dynamic Array (aka a resizable array) class, such as an ArrayList in Java or a vector in C++.
+Design a Dynamic Array (aka a resizable array) class, such as an `ArrayList` in Java or a `vector` in C++.
 
 Your DynamicArray class should support the following operations:
 - `DynamicArray(int capacity)` will initialize an empty array with a capacity of capacity, where capacity > 0.
